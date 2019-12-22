@@ -1,6 +1,7 @@
 The code in face3.py was based on documentation from https://pypi.org/project/face_recognition/ , tested and 
 performing quite well face recogntion project. Requirements for installation are quite complex.
 Face recogntion part works quite well in selected Amarcord scenes ( I took 30 scenes ) and few scenes from City of Women.
+These were not random sceenes but most memorable for me.
 
 I tried to utilize code from library  documentation and it worked quite well (from description view). 
 Not much documentation exists how the algorithm was developed
